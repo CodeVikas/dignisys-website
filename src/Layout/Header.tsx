@@ -127,7 +127,7 @@ export default function Header() {
             ))}
 
             <a
-              href="#contact"
+              href="/#contact"
               className="bg-yellow-400 hover:bg-yellow-500 text-black px-6 py-2.5 rounded-full font-semibold transition-all duration-200 shadow-sm hover:shadow-md flex items-center gap-2"
             >
               Contact Us
@@ -193,7 +193,7 @@ export default function Header() {
               ))}
 
               <a
-                href="#contact"
+                href="/#contact"
                 className="bg-yellow-400 hover:bg-yellow-500 text-black px-6 py-2.5 rounded-lg font-semibold text-center mt-2"
                 onClick={() => setIsMenuOpen(false)}
               >

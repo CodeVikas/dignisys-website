@@ -4,7 +4,7 @@ import AboutUsImage from "../Assests/Image (3).png";
 export default function AboutUs() {
   return (
     <section id="about" className="max-w-7xl mx-auto py-20 bg-white relative ">
-      <div className=" mx-auto px-6  sm:px-6 relative z-10">
+      <div className=" mx-auto px-6  sm:px-12 relative z-10">
         <h2 className="text-[20px] sm:text-[22px] md:text-[24px]  font-bold text-[#F9A826] leading-[40px] tracking-[2px] uppercase pb-5">
           About Us
         </h2>
