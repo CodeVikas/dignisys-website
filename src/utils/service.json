@@ -1,0 +1,272 @@
+{
+  "logistics": {
+    "id": "logistics",
+    "title": "Logistics",
+    "icon": "Truck",
+    "color": "blue",
+    "subtitle": "Dignisys Limited provide cutting technology offerings apart from providing a great and unique customer service and time savings products.",
+    "description": "At Dignisys Limited, we understand that efficient logistics is the backbone of modern business. Our comprehensive logistics solutions leverage cutting-edge technology to streamline your supply chain, reduce costs, and ensure timely delivery of your products.",
+    "sections": [
+      {
+        "icon": "Package",
+        "title": "Supply Chain Management",
+        "description": "End-to-end supply chain optimization with real-time tracking, inventory management, and predictive analytics to minimize delays and maximize efficiency."
+      },
+      {
+        "icon": "Clock",
+        "title": "Time-Critical Delivery",
+        "description": "Specialized services for time-sensitive shipments with guaranteed delivery windows and priority handling for urgent logistics needs."
+      },
+      {
+        "icon": "Globe",
+        "title": "Global Network",
+        "description": "Access to an extensive international logistics network spanning multiple continents with local expertise and global reach."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Quality Assurance",
+        "description": "Rigorous quality control processes and handling standards to ensure your products arrive in perfect condition every time."
+      }
+    ],
+    "features": [
+      "Advanced tracking systems with real-time visibility",
+      "Automated warehouse management solutions",
+      "Custom routing optimization algorithms",
+      "Multi-modal transportation options",
+      "Dedicated customer support team",
+      "Flexible pricing models tailored to your needs",
+      "Compliance with international shipping regulations",
+      "Sustainable and eco-friendly logistics practices"
+    ],
+    "cta": {
+      "title": "Ready to Optimize Your Logistics?",
+      "description": "Let's discuss how our logistics solutions can transform your supply chain and drive your business forward.",
+      "buttonText": "Contact Us Today"
+    }
+  },
+  "travels": {
+    "id": "travels",
+    "title": "Travels",
+    "icon": "Plane",
+    "color": "amber",
+    "subtitle": "Dignisys Limited is providing excellent Domestic and International Holidays travel based on your requirement on planning a honeymoon, solo trip.",
+    "description": "Experience the world with Dignisys Limited's comprehensive travel services. Whether you're planning a romantic honeymoon, an adventurous solo expedition, or a family vacation, we curate personalized travel experiences that create lasting memories.",
+    "sections": [
+      {
+        "icon": "MapPin",
+        "title": "Domestic Travel",
+        "description": "Explore the beauty of local destinations with our expertly planned domestic travel packages featuring hidden gems and popular attractions."
+      },
+      {
+        "icon": "Plane",
+        "title": "International Holidays",
+        "description": "Discover the world with our international travel packages covering exotic destinations across continents with seamless planning."
+      },
+      {
+        "icon": "Star",
+        "title": "Honeymoon Packages",
+        "description": "Romantic getaways designed for newlyweds with special touches, luxury accommodations, and unforgettable experiences."
+      },
+      {
+        "icon": "Calendar",
+        "title": "Solo Trip Planning",
+        "description": "Customized itineraries for solo travelers seeking adventure, cultural immersion, and personal discovery with safety prioritized."
+      }
+    ],
+    "features": [
+      "Personalized travel itineraries based on your preferences",
+      "Competitive pricing with transparent cost breakdown",
+      "Flight and hotel bookings with best rates",
+      "Travel insurance and documentation assistance",
+      "Visa support and guidance",
+      "24/7 travel support during your trip",
+      "Local guides and authentic cultural experiences",
+      "Flexible cancellation and rescheduling options"
+    ],
+    "cta": {
+      "title": "Start Your Journey Today",
+      "description": "Let us help you plan your dream vacation. Contact our travel experts to create a personalized itinerary.",
+      "buttonText": "Plan Your Trip"
+    }
+  },
+  "bpo": {
+    "id": "bpo",
+    "title": "BPO Services",
+    "icon": "Headphones",
+    "color": "emerald",
+    "subtitle": "Intelligent Finance Operations, Sourcing and Procurement, Supply Chain, and Compliance as a Service.",
+    "description": "Dignisys Limited delivers world-class BPO services that empower businesses to focus on their core competencies while we handle critical operational processes. Our intelligent solutions combine technology, expertise, and innovation to drive efficiency and growth.",
+    "sections": [
+      {
+        "icon": "TrendingUp",
+        "title": "Intelligent Finance Operations",
+        "description": "Streamline your financial processes with our advanced finance operations including accounts payable/receivable, financial reporting, and reconciliation services."
+      },
+      {
+        "icon": "Users",
+        "title": "Sourcing and Procurement",
+        "description": "Optimize your procurement processes with strategic sourcing, vendor management, and procurement analytics to reduce costs and improve quality."
+      },
+      {
+        "icon": "Shield",
+        "title": "Supply Chain Management",
+        "description": "End-to-end supply chain solutions including inventory management, demand planning, and logistics coordination for operational excellence."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Compliance as a Service",
+        "description": "Stay compliant with evolving regulations through our comprehensive compliance monitoring, risk management, and audit support services."
+      }
+    ],
+    "features": [
+      "Cost reduction through process optimization and automation",
+      "Access to specialized expertise and best practices",
+      "Scalable solutions that grow with your business",
+      "Advanced analytics and reporting capabilities",
+      "Improved operational efficiency and productivity",
+      "Reduced turnaround time for critical processes",
+      "24/7 operational support and service delivery",
+      "Data security and confidentiality guaranteed"
+    ],
+    "cta": {
+      "title": "Transform Your Business Operations",
+      "description": "Partner with us to optimize your business processes and achieve operational excellence.",
+      "buttonText": "Get Started"
+    }
+  },
+  "kpo": {
+    "id": "kpo",
+    "title": "KPO Services",
+    "icon": "Brain",
+    "color": "violet",
+    "subtitle": "The scope of KPO business includes preparation of accounts, tax returns, computer aided simulation, engineering and development, financial services.",
+    "description": "Dignisys Limited provides high-value Knowledge Process Outsourcing services that require advanced analytical and technical skills. Our team of experts delivers specialized knowledge-based solutions that drive strategic decision-making and business growth.",
+    "sections": [
+      {
+        "icon": "Calculator",
+        "title": "Accounts & Tax Returns",
+        "description": "Expert preparation of financial accounts, tax returns, and compliance documentation with accuracy and adherence to regulatory requirements."
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Computer Aided Simulation",
+        "description": "Advanced simulation and modeling services for engineering, product development, and strategic planning using cutting-edge software tools."
+      },
+      {
+        "icon": "Brain",
+        "title": "Engineering & Development",
+        "description": "Specialized engineering services including design, analysis, prototyping, and technical documentation for complex projects."
+      },
+      {
+        "icon": "FileText",
+        "title": "Financial Services",
+        "description": "Comprehensive financial analysis, investment research, risk assessment, and portfolio management services for informed decision-making."
+      }
+    ],
+    "features": [
+      "Financial modeling and forecasting",
+      "Market research and competitive analysis",
+      "Data analytics and business intelligence",
+      "Technical writing and documentation",
+      "Patent research and intellectual property analysis",
+      "Regulatory compliance and risk management",
+      "Engineering design and CAD services",
+      "Investment research and equity analysis"
+    ],
+    "cta": {
+      "title": "Leverage Our Expertise",
+      "description": "Partner with our knowledge experts to gain competitive advantage and drive innovation in your industry.",
+      "buttonText": "Explore Solutions"
+    }
+  },
+  "healthcare": {
+    "id": "healthcare",
+    "title": "Healthcare Services",
+    "icon": "Heart",
+    "color": "red",
+    "subtitle": "Healthcare is the maintenance or improvement of health via the prevention, diagnosis, treatment, amelioration, or cure of disease.",
+    "description": "At Dignisys Limited, we provide comprehensive healthcare services that focus on the complete well-being of individuals. Our services span from preventive care to diagnosis, treatment, and ongoing health maintenance, ensuring quality care at every stage.",
+    "sections": [
+      {
+        "icon": "UserCheck",
+        "title": "Prevention & Screening",
+        "description": "Comprehensive preventive health programs including regular screenings, health assessments, and early detection services to maintain optimal health."
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Diagnosis & Treatment",
+        "description": "Advanced diagnostic services and evidence-based treatment protocols delivered by experienced healthcare professionals using modern medical technology."
+      },
+      {
+        "icon": "Activity",
+        "title": "Amelioration Services",
+        "description": "Specialized care focused on improving quality of life and managing chronic conditions through personalized treatment plans and ongoing support."
+      },
+      {
+        "icon": "Heart",
+        "title": "Cure & Recovery",
+        "description": "Complete care pathways from diagnosis through treatment to full recovery, with rehabilitation and follow-up services for optimal outcomes."
+      }
+    ],
+    "features": [
+      "Primary care and general health consultations",
+      "Specialized medical consultations and second opinions",
+      "Preventive health check-ups and screenings",
+      "Chronic disease management programs",
+      "Diagnostic imaging and laboratory services",
+      "Telemedicine and remote health monitoring",
+      "Health education and wellness programs",
+      "Medical record management and coordination"
+    ],
+    "cta": {
+      "title": "Your Health, Our Priority",
+      "description": "Contact us to learn more about our healthcare services and how we can support your health journey.",
+      "buttonText": "Schedule Consultation"
+    }
+  },
+  "software": {
+    "id": "software",
+    "title": "Software Solutions",
+    "icon": "Code",
+    "color": "cyan",
+    "subtitle": "The market is booming every day with continuous demand for creative and customised software development.",
+    "description": "In today's rapidly evolving digital landscape, Dignisys Limited stands at the forefront of software innovation. We create cutting-edge, customized software solutions that empower businesses to thrive in the competitive market. Our development team combines creativity, technical expertise, and industry best practices to deliver solutions that exceed expectations.",
+    "sections": [
+      {
+        "icon": "Laptop",
+        "title": "Web Applications",
+        "description": "Responsive and scalable web applications built with modern frameworks and technologies, delivering seamless user experiences across all devices."
+      },
+      {
+        "icon": "Smartphone",
+        "title": "Mobile Applications",
+        "description": "Native and cross-platform mobile apps for iOS and Android that provide intuitive interfaces and powerful functionality in users' pockets."
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud Solutions",
+        "description": "Cloud-native applications and migration services leveraging AWS, Azure, and Google Cloud for scalability, reliability, and performance."
+      },
+      {
+        "icon": "Code",
+        "title": "Enterprise Software",
+        "description": "Robust enterprise solutions including ERP, CRM, and business process automation tailored to your organization's specific needs."
+      }
+    ],
+    "features": [
+      "Agile development methodology for flexibility and rapid delivery",
+      "User-centric design focused on exceptional experiences",
+      "Clean, maintainable code following industry standards",
+      "Comprehensive testing and quality assurance",
+      "Scalable architecture for future growth",
+      "Continuous integration and deployment pipelines",
+      "Post-launch support and maintenance",
+      "Regular updates and feature enhancements"
+    ],
+    "cta": {
+      "title": "Build Your Next Innovation",
+      "description": "Let's discuss your software needs and create a solution that drives your business forward.",
+      "buttonText": "Start Your Project"
+    }
+  }
+}
